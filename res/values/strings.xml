@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World</string>
+	<string name="app_name">Customized Music Player</string>
+	  <string name="acd_play_button">Play</string>
+	  <string name="acd_stream_rewind_button">Stream Rewind</string>
+	  <string name="acd_stream_rewind_30_button">Thirty Second Stream Rewind</string>
+	  <string name="acd_stream_fast_forward_button">Fast Forward Stream</string>
+	  <string name="msg_clear_played_segments">Clear played segments</string>
+	   <string name="msg_clear_playlist">Clear playlist</string>
+</resources>
